@@ -3,6 +3,6 @@ Prácticas y proyectos subidos durante mi aprendizaje de pascal
 
 
 ## Carpetas
-*[Programas](Programas):
+1. [Programas](Programas):
     *[3x+1](Programas/3x+1.pas)
     *[Tareas](Programas/Tareas.pas)
