@@ -4,6 +4,6 @@ Prácticas y proyectos subidos durante mi aprendizaje de pascal
 
 ## Carpeta Programas
 
- [Programas](Programas)/\n
-    | [3x+1](Programas/3x+1.pas)
-    | [Tareas](Programas/Tareas.pas)
+[Programas](Programas)
+	| [3x+1](Programas/3x+1.pas)
+	| [Tareas](Programas/Tareas.pas)
