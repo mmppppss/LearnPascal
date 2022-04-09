@@ -20,13 +20,7 @@ begin
   WriteLn('Añadir tarea para '+materia);
   Write('>>> ');
   Read(tarea);
-  (*
-  Assign (tareas, 'tareas.txt');
-  append(tareas);
-  rewrite(tareas);
-  Write(tareas,#13+' ['+materia+'] '+tarea+#13);
-  close(tareas)
-  *)
+
   assign(tareas, 'tareas.txt');
   append(tareas);
   writeln(tareas,'['+materia+'] '+tarea );
